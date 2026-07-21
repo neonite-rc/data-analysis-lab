@@ -50,7 +50,7 @@ global-temperature-analysis/
 ### Installation
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/neonite2217/data-analyst-learning-projects.git
+   git clone https://github.com/neonite-rc/data-analyst-learning-projects.git
    cd "data-analyst-learning-projects/global-temperature-analysis"
    ```
 

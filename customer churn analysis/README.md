@@ -43,7 +43,7 @@ This project provides a complete end-to-end customer churn analysis solution tha
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/neonite2217/data-analyst-learning-projects.git
+git clone https://github.com/neonite-rc/data-analyst-learning-projects.git
 cd "data-analyst-learning-projects/customer churn analysis"
 
 # Install required packages
@@ -285,7 +285,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork and clone the repo
-git clone https://github.com/neonite2217/data-analyst-learning-projects.git
+git clone https://github.com/neonite-rc/data-analyst-learning-projects.git
 cd "data-analyst-learning-projects/customer churn analysis"
 
 # Create a feature branch
@@ -379,8 +379,8 @@ This project demonstrates:
 ## 📞 Support & Contact
 
 ### 🆘 Getting Help
-- **Issues**: [GitHub Issues](https://github.com/neonite2217/data-analyst-learning-projects/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/neonite2217/data-analyst-learning-projects/discussions)
+- **Issues**: [GitHub Issues](https://github.com/neonite-rc/data-analyst-learning-projects/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/neonite-rc/data-analyst-learning-projects/discussions)
 - **Email**: [your.email@domain.com](mailto:your.email@domain.com)
 
 ### 🌐 Connect
@@ -404,14 +404,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=neonite2217/data-analyst-learning-projects&type=Date)](https://star-history.com/#neonite2217/data-analyst-learning-projects&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=neonite-rc/data-analyst-learning-projects&type=Date)](https://star-history.com/#neonite-rc/data-analyst-learning-projects&Date)
 
 ---
 
 ### 🚀 Ready to Get Started?
 
 ```bash
-git clone https://github.com/neonite2217/data-analyst-learning-projects.git
+git clone https://github.com/neonite-rc/data-analyst-learning-projects.git
 cd "data-analyst-learning-projects/customer churn analysis"
 pip install -r requirements.txt
 python churn_analysis.py
@@ -423,6 +423,6 @@ python churn_analysis.py
 
 > *"In God we trust. All others must bring data."* - W. Edwards Deming
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/neonite2217)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/neonite-rc)
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![Data Science](https://img.shields.io/badge/Powered%20by-Data%20Science-green.svg)](https://github.com/neonite2217/data-analyst-learning-projects)
+[![Data Science](https://img.shields.io/badge/Powered%20by-Data%20Science-green.svg)](https://github.com/neonite-rc/data-analyst-learning-projects)
